@@ -1,0 +1,12 @@
+C:\Users\unilogistix\RiderProjects\NLayerSolution\NLayer.Service\bin\Debug\net7.0\NLayer.Service.deps.json
+C:\Users\unilogistix\RiderProjects\NLayerSolution\NLayer.Service\bin\Debug\net7.0\NLayer.Service.dll
+C:\Users\unilogistix\RiderProjects\NLayerSolution\NLayer.Service\bin\Debug\net7.0\NLayer.Service.pdb
+C:\Users\unilogistix\RiderProjects\NLayerSolution\NLayer.Service\obj\Debug\net7.0\NLayer.Service.csproj.AssemblyReference.cache
+C:\Users\unilogistix\RiderProjects\NLayerSolution\NLayer.Service\obj\Debug\net7.0\NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unilogistix\RiderProjects\NLayerSolution\NLayer.Service\obj\Debug\net7.0\NLayer.Service.AssemblyInfoInputs.cache
+C:\Users\unilogistix\RiderProjects\NLayerSolution\NLayer.Service\obj\Debug\net7.0\NLayer.Service.AssemblyInfo.cs
+C:\Users\unilogistix\RiderProjects\NLayerSolution\NLayer.Service\obj\Debug\net7.0\NLayer.Service.csproj.CoreCompileInputs.cache
+C:\Users\unilogistix\RiderProjects\NLayerSolution\NLayer.Service\obj\Debug\net7.0\NLayer.Service.dll
+C:\Users\unilogistix\RiderProjects\NLayerSolution\NLayer.Service\obj\Debug\net7.0\refint\NLayer.Service.dll
+C:\Users\unilogistix\RiderProjects\NLayerSolution\NLayer.Service\obj\Debug\net7.0\NLayer.Service.pdb
+C:\Users\unilogistix\RiderProjects\NLayerSolution\NLayer.Service\obj\Debug\net7.0\ref\NLayer.Service.dll
