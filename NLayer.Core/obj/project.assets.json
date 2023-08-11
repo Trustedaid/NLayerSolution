@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\unilogistix\\.nuget\\packages\\": {}
+    "C:\\Users\\ereno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\unilogistix\\RiderProjects\\NLayerSolution\\NLayer.Core\\NLayer.Core.csproj",
+      "projectUniqueName": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Core\\NLayer.Core.csproj",
       "projectName": "NLayer.Core",
-      "projectPath": "C:\\Users\\unilogistix\\RiderProjects\\NLayerSolution\\NLayer.Core\\NLayer.Core.csproj",
-      "packagesPath": "C:\\Users\\unilogistix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\unilogistix\\RiderProjects\\NLayerSolution\\NLayer.Core\\obj\\",
+      "projectPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Core\\NLayer.Core.csproj",
+      "packagesPath": "C:\\Users\\ereno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\unilogistix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ereno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\unilogistix\\RiderProjects\\NLayerSolution\\NLayer.Web\\NLayer.Web.csproj": {}
+    "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Web\\NLayer.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\unilogistix\\RiderProjects\\NLayerSolution\\NLayer.Web\\NLayer.Web.csproj": {
+    "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Web\\NLayer.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unilogistix\\RiderProjects\\NLayerSolution\\NLayer.Web\\NLayer.Web.csproj",
+        "projectUniqueName": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Web\\NLayer.Web.csproj",
         "projectName": "NLayer.Web",
-        "projectPath": "C:\\Users\\unilogistix\\RiderProjects\\NLayerSolution\\NLayer.Web\\NLayer.Web.csproj",
-        "packagesPath": "C:\\Users\\unilogistix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unilogistix\\RiderProjects\\NLayerSolution\\NLayer.Web\\obj\\",
+        "projectPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Web\\NLayer.Web.csproj",
+        "packagesPath": "C:\\Users\\ereno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\unilogistix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ereno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
