@@ -1,0 +1,12 @@
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\Caching\bin\Debug\net7.0\Caching.deps.json
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\Caching\bin\Debug\net7.0\Caching.dll
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\Caching\bin\Debug\net7.0\Caching.pdb
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\Caching\obj\Debug\net7.0\Caching.csproj.AssemblyReference.cache
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\Caching\obj\Debug\net7.0\Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\Caching\obj\Debug\net7.0\Caching.AssemblyInfoInputs.cache
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\Caching\obj\Debug\net7.0\Caching.AssemblyInfo.cs
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\Caching\obj\Debug\net7.0\Caching.csproj.CoreCompileInputs.cache
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\Caching\obj\Debug\net7.0\Caching.dll
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\Caching\obj\Debug\net7.0\refint\Caching.dll
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\Caching\obj\Debug\net7.0\Caching.pdb
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\Caching\obj\Debug\net7.0\ref\Caching.dll
