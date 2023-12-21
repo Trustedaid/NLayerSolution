@@ -23,7 +23,11 @@ builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepositor
 builder.Services.AddDbContext<AppDbContext>(x =>
 {
     x.UseSqlServer(builder.Configuration.GetConnectionString("SqlConnection"),
-        option => { option.MigrationsAssembly(Assembly.GetAssembly(typeof(AppDbContext)).GetName().Name); });
+        option =>
+        {
+            option.MigrationsAssembly(Assembly.GetAssembly(typeof(AppDbContext)).GetName().Name);
+            
+        });
 });
 
 var app = builder.Build();

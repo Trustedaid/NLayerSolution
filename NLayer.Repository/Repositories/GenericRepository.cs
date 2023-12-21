@@ -6,11 +6,9 @@ namespace NLayer.Repository.Repositories;
 
 public class GenericRepository<T> : IGenericRepository<T> where T : class
 {
-    protected readonly AppDbContext
-        _context; // protected olmasının sebebi : GenericRepository'i miras alan sınıfların _context'e erişebilmesi.
+    protected readonly AppDbContext _context; // protected olmasının sebebi : GenericRepository'i miras alan sınıfların _context'e erişebilmesi.
 
-    private readonly DbSet<T>
-        _dbSet; // Readyonly tanımlanmasının sebebi : _dbSet'i sadece constructor içerisinde set edebiliriz.
+    private readonly DbSet<T> _dbSet; // Readyonly tanımlanmasının sebebi : _dbSet'i sadece constructor içerisinde set edebiliriz.
 
     public GenericRepository(AppDbContext context)
     {
@@ -46,6 +44,7 @@ public class GenericRepository<T> : IGenericRepository<T> where T : class
     public async Task AddAsync(T entity)
     {
         await _dbSet.AddAsync(entity);
+
     }
 
     public void Update(T entity)

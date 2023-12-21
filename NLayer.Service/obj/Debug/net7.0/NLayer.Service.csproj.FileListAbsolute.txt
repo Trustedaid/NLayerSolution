@@ -22,3 +22,8 @@ C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\obj\Debug\
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\obj\Debug\net7.0\refint\NLayer.Service.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\obj\Debug\net7.0\NLayer.Service.pdb
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\obj\Debug\net7.0\ref\NLayer.Service.dll
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\bin\Debug\net7.0\NLayer.Core.dll
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\bin\Debug\net7.0\NLayer.Repository.dll
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\bin\Debug\net7.0\NLayer.Repository.pdb
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\bin\Debug\net7.0\NLayer.Core.pdb
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\obj\Debug\net7.0\NLayer.Service.csproj.CopyComplete

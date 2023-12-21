@@ -22,7 +22,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayer.Web", "NLayer.Web\NL
 		{10AD3433-3438-4955-BE20-D63A8CC409C5} = {10AD3433-3438-4955-BE20-D63A8CC409C5}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caching", "Caching\Caching.csproj", "{2AB0AFB2-FF02-49C7-AE96-0B342016B818}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayer.Caching", "NLayer.Caching\NLayer.Caching.csproj", "{55581C0B-DCC8-4D0D-A412-2160FE9E5B8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -50,9 +50,9 @@ Global
 		{E48199F4-3849-48B7-AADE-091464F1CBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E48199F4-3849-48B7-AADE-091464F1CBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E48199F4-3849-48B7-AADE-091464F1CBA5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2AB0AFB2-FF02-49C7-AE96-0B342016B818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2AB0AFB2-FF02-49C7-AE96-0B342016B818}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2AB0AFB2-FF02-49C7-AE96-0B342016B818}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2AB0AFB2-FF02-49C7-AE96-0B342016B818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55581C0B-DCC8-4D0D-A412-2160FE9E5B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55581C0B-DCC8-4D0D-A412-2160FE9E5B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55581C0B-DCC8-4D0D-A412-2160FE9E5B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55581C0B-DCC8-4D0D-A412-2160FE9E5B8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

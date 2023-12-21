@@ -89,11 +89,11 @@ namespace NLayer.Repository.Migrations
                 columns: new[] { "Id", "CategoryId", "CreateDate", "Name", "Price", "Stock", "UpdateDate" },
                 values: new object[,]
                 {
-                    { 1, 1, new DateTime(2023, 8, 12, 1, 15, 17, 211, DateTimeKind.Local).AddTicks(8325), "Pilot Pen", 100m, 20, null },
-                    { 2, 1, new DateTime(2023, 8, 12, 1, 15, 17, 211, DateTimeKind.Local).AddTicks(8340), "Pencil", 200m, 50, null },
-                    { 3, 1, new DateTime(2023, 8, 12, 1, 15, 17, 211, DateTimeKind.Local).AddTicks(8342), "TBallpoint Pen", 300m, 100, null },
-                    { 4, 2, new DateTime(2023, 8, 12, 1, 15, 17, 211, DateTimeKind.Local).AddTicks(8343), "Crime and Punishment", 100m, 20, null },
-                    { 5, 2, new DateTime(2023, 8, 12, 1, 15, 17, 211, DateTimeKind.Local).AddTicks(8345), "The Great Speech", 200m, 50, null }
+                    { 1, 1, new DateTime(2023, 12, 21, 23, 42, 28, 446, DateTimeKind.Local).AddTicks(1184), "Pilot Pen", 100m, 20, null },
+                    { 2, 1, new DateTime(2023, 12, 21, 23, 42, 28, 446, DateTimeKind.Local).AddTicks(1196), "Pencil", 200m, 50, null },
+                    { 3, 1, new DateTime(2023, 12, 21, 23, 42, 28, 446, DateTimeKind.Local).AddTicks(1197), "TBallpoint Pen", 300m, 100, null },
+                    { 4, 2, new DateTime(2023, 12, 21, 23, 42, 28, 446, DateTimeKind.Local).AddTicks(1198), "Crime and Punishment", 100m, 20, null },
+                    { 5, 2, new DateTime(2023, 12, 21, 23, 42, 28, 446, DateTimeKind.Local).AddTicks(1200), "The Great Speech", 200m, 50, null }
                 });
 
             migrationBuilder.InsertData(
