@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "S7Y1EkFNVdrgpsVS3SYuWj81QLOuHH0GV0l9xOn0qFon7R6bAEDp5nLoLkxre/1GJvlu53G6AabcIHwZS3Pz4A==",
+  "dgSpecHash": "bkX0bVmZ23CyfM39d2/7qyZQzPqQLlfP8KzxNPI9TcCZsfKNexoiBgqK0CLBK5V9HOnKrK0xIAisXRAbPgWnoQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.API\\NLayer.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ereno\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
+    "C:\\Users\\ereno\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
     "C:\\Users\\ereno\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ereno\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\ereno\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

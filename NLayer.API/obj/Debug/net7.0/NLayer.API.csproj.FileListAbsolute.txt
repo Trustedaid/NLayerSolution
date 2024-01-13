@@ -296,3 +296,5 @@ C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\obj\Debug\net7
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\bin\Debug\net7.0\FluentValidation.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\bin\Debug\net7.0\Autofac.dll
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
