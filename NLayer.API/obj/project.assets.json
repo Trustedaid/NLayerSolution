@@ -4060,6 +4060,23 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "NLayer.Caching/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "AutoMapper": "12.0.1",
+          "Microsoft.EntityFrameworkCore": "7.0.14",
+          "Microsoft.Extensions.Caching.Abstractions": "7.0.0",
+          "NLayer.Core": "1.0.0",
+          "NLayer.Service": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NLayer.Caching.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NLayer.Caching.dll": {}
+        }
+      },
       "NLayer.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -11893,6 +11910,11 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "NLayer.Caching/1.0.0": {
+      "type": "project",
+      "path": "../NLayer.Caching/NLayer.Caching.csproj",
+      "msbuildProject": "../NLayer.Caching/NLayer.Caching.csproj"
+    },
     "NLayer.Core/1.0.0": {
       "type": "project",
       "path": "../NLayer.Core/NLayer.Core.csproj",
@@ -11916,6 +11938,7 @@
       "Microsoft.EntityFrameworkCore >= 7.0.14",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.14",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.11",
+      "NLayer.Caching >= 1.0.0",
       "NLayer.Repository >= 1.0.0",
       "NLayer.Service >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
@@ -11948,6 +11971,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Caching\\NLayer.Caching.csproj": {
+              "projectPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Caching\\NLayer.Caching.csproj"
+            },
             "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Repository\\NLayer.Repository.csproj": {
               "projectPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Repository\\NLayer.Repository.csproj"
             },

@@ -13,6 +13,7 @@
           "Microsoft.EntityFrameworkCore": "7.0.14",
           "Microsoft.EntityFrameworkCore.Design": "7.0.14",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.11",
+          "NLayer.Caching": "1.0.0",
           "NLayer.Repository": "1.0.0",
           "NLayer.Service": "1.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
@@ -2629,6 +2630,18 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
+      "NLayer.Caching/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "12.0.1",
+          "Microsoft.EntityFrameworkCore": "7.0.14",
+          "Microsoft.Extensions.Caching.Abstractions": "7.0.0",
+          "NLayer.Core": "1.0.0",
+          "NLayer.Service": "1.0.0"
+        },
+        "runtime": {
+          "NLayer.Caching.dll": {}
+        }
+      },
       "NLayer.Core/1.0.0": {
         "runtime": {
           "NLayer.Core.dll": {}
@@ -4306,6 +4319,11 @@
       "sha512": "sha512-5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ==",
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
+    },
+    "NLayer.Caching/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "NLayer.Core/1.0.0": {
       "type": "project",

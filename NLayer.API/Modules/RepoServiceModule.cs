@@ -1,5 +1,6 @@
 using System.Reflection;
 using Autofac;
+using NLayer.Caching;
 using NLayer.Core.Services;
 using NLayer.Core.UnitOfWorks;
 using NLayer.Repository;
@@ -29,5 +30,7 @@ public class RepoServiceModule : Module
         
         builder.RegisterAssemblyTypes(apiAssebly, repoAssembly, serviceAssembly)
             .Where(x => x.Name.EndsWith("Service")).AsImplementedInterfaces().InstancePerLifetimeScope();
+        
+        builder.RegisterType<ProductServiceWithCaching>().As<IProductService>();
     }
 }
