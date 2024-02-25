@@ -12,8 +12,9 @@ C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Caching\obj\Debug\
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Caching\obj\Debug\net7.0\NLayer.Caching.AssemblyInfoInputs.cache
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Caching\obj\Debug\net7.0\NLayer.Caching.AssemblyInfo.cs
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Caching\obj\Debug\net7.0\NLayer.Caching.csproj.CoreCompileInputs.cache
-C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Caching\obj\Debug\net7.0\NLayer.Caching.csproj.CopyComplete
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Caching\obj\Debug\net7.0\NLayer.Caching.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Caching\obj\Debug\net7.0\refint\NLayer.Caching.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Caching\obj\Debug\net7.0\NLayer.Caching.pdb
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Caching\obj\Debug\net7.0\ref\NLayer.Caching.dll
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Caching\obj\Debug\net7.0\NLayer.Caching.sourcelink.json
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Caching\obj\Debug\net7.0\NLayer.C.BF8D253B.Up2Date

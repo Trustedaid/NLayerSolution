@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NLayer.Web.bundle.scp.css",
-      "PackagePath": "staticwebassets\\NLayer.Web.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

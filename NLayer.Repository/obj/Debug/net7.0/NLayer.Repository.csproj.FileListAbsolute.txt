@@ -21,9 +21,10 @@ C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Repository\obj\Deb
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.AssemblyInfoInputs.cache
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.AssemblyInfo.cs
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.csproj.CoreCompileInputs.cache
-C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.csproj.CopyComplete
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Repository\obj\Debug\net7.0\refint\NLayer.Repository.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.pdb
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.genruntimeconfig.cache
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Repository\obj\Debug\net7.0\ref\NLayer.Repository.dll
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.sourcelink.json
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Repository\obj\Debug\net7.0\NLayer.R.11436BBB.Up2Date

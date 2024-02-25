@@ -22,8 +22,9 @@ C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\obj\Debug\
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\obj\Debug\net7.0\NLayer.Service.AssemblyInfoInputs.cache
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\obj\Debug\net7.0\NLayer.Service.AssemblyInfo.cs
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\obj\Debug\net7.0\NLayer.Service.csproj.CoreCompileInputs.cache
-C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\obj\Debug\net7.0\NLayer.Service.csproj.CopyComplete
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\obj\Debug\net7.0\NLayer.Service.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\obj\Debug\net7.0\refint\NLayer.Service.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\obj\Debug\net7.0\NLayer.Service.pdb
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\obj\Debug\net7.0\ref\NLayer.Service.dll
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\obj\Debug\net7.0\NLayer.Service.sourcelink.json
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.Service\obj\Debug\net7.0\NLayer.S.636D47A2.Up2Date

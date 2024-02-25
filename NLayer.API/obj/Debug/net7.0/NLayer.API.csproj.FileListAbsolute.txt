@@ -292,7 +292,6 @@ C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\obj\Debug\net7
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\obj\Debug\net7.0\scopedcss\bundle\NLayer.API.styles.css
-C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\obj\Debug\net7.0\NLayer.API.csproj.CopyComplete
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\obj\Debug\net7.0\NLayer.API.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\obj\Debug\net7.0\refint\NLayer.API.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\obj\Debug\net7.0\NLayer.API.pdb
@@ -300,3 +299,5 @@ C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\obj\Debug\net7
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\obj\Debug\net7.0\ref\NLayer.API.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\bin\Debug\net7.0\NLayer.Caching.dll
 C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\bin\Debug\net7.0\NLayer.Caching.pdb
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\obj\Debug\net7.0\NLayer.API.sourcelink.json
+C:\Users\ereno\OneDrive\Belgeler\GitHub\NLayerSolution\NLayer.API\obj\Debug\net7.0\NLayer.API.csproj.Up2Date

@@ -4,14 +4,14 @@
     "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Web\\NLayer.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Web\\NLayer.Web.csproj": {
+    "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Core\\NLayer.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Web\\NLayer.Web.csproj",
-        "projectName": "NLayer.Web",
-        "projectPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Web\\NLayer.Web.csproj",
+        "projectUniqueName": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Core\\NLayer.Core.csproj",
+        "projectName": "NLayer.Core",
+        "projectPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Core\\NLayer.Core.csproj",
         "packagesPath": "C:\\Users\\ereno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Web\\obj\\",
+        "outputPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ereno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,6 +51,223 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Repository\\NLayer.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Repository\\NLayer.Repository.csproj",
+        "projectName": "NLayer.Repository",
+        "projectPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Repository\\NLayer.Repository.csproj",
+        "packagesPath": "C:\\Users\\ereno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ereno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Core\\NLayer.Core.csproj": {
+                "projectPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Core\\NLayer.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Service\\NLayer.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Service\\NLayer.Service.csproj",
+        "projectName": "NLayer.Service",
+        "projectPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Service\\NLayer.Service.csproj",
+        "packagesPath": "C:\\Users\\ereno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ereno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Repository\\NLayer.Repository.csproj": {
+                "projectPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Repository\\NLayer.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Web\\NLayer.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Web\\NLayer.Web.csproj",
+        "projectName": "NLayer.Web",
+        "projectPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Web\\NLayer.Web.csproj",
+        "packagesPath": "C:\\Users\\ereno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ereno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Service\\NLayer.Service.csproj": {
+                "projectPath": "C:\\Users\\ereno\\OneDrive\\Belgeler\\GitHub\\NLayerSolution\\NLayer.Service\\NLayer.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
@@ -58,7 +275,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
